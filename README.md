@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌐Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/>
-  <img src="https://img.shields.io/badge/📧Email-Sohel@example.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  <img src="https://img.shields.io/badge/LinkedIn-Sohel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/GitHub-Sohel-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/🌐Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
+  <a href="mailto:sohel@example.com"><img src="https://img.shields.io/badge/📧Email-Sohel-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Sohel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Sohel-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 I’m a **professional MERN-Stack Developer** building **modern, scalable, and high-performance web applications**. I enjoy turning ideas into reality with **clean code, robust backend, and beautiful UI/UX**.  
 
-- 🌱 Learning modern web technologies & AI integration  
+- 🌱 Continuously learning modern web technologies & AI integration  
 - 🔧 Writing clean, efficient, and maintainable code  
 - 💡 Passionate about solving problems & automation  
 - 🤝 Open to collaboration and exciting projects  
@@ -48,30 +48,36 @@ I’m a **professional MERN-Stack Developer** building **modern, scalable, and h
 
 ---
 
-## 🚀 Projects
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Portfolio Website** | Showcase of my projects with interactive UI | React, TailwindCSS |
-| **E-Commerce Platform** | Full-stack e-commerce app with payment gateway | MERN Stack, Stripe API |
-| **Task Manager App** | CRUD application with user authentication | MERN Stack, JWT |
-| **AI Chatbot App** | Voice & text-based AI chatbot | React, Node.js, OpenAI API |
+## 🚀 Featured Projects
 
-*(Add live/demo links in table cells for clickable access)*
+| Project | Description | Technologies | Demo / Repo |
+|---------|-------------|--------------|-------------|
+| **Portfolio Website** | Interactive portfolio to showcase projects and skills with modern UI/UX | React, TailwindCSS, Framer Motion | [Live](https://yourwebsite.com) / [Repo](https://github.com/yourusername/portfolio) |
+| **E-Commerce Platform** | Full-stack e-commerce app with shopping cart, payments, and admin dashboard | MERN Stack, Stripe API, Redux | [Live](https://yourecommerce.com) / [Repo](https://github.com/yourusername/ecommerce) |
+| **Task Manager App** | Task CRUD application with user authentication and notifications | MERN Stack, JWT, Node.js | [Live](https://yourtaskapp.com) / [Repo](https://github.com/yourusername/task-manager) |
+| **AI Chatbot App** | AI-powered voice & text chatbot for intelligent conversation | React, Node.js, OpenAI API | [Live](https://yourchatbot.com) / [Repo](https://github.com/yourusername/ai-chatbot) |
+| **Blog Platform** | Multi-user blogging platform with comments, likes & admin panel | MERN Stack, MongoDB, Express | [Live](https://yourblog.com) / [Repo](https://github.com/yourusername/blog-platform) |
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
 ## 👁️ Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00ffab&style=flat-square" alt="Visitor Count" />
 </p>
 
 ---
@@ -79,7 +85,7 @@ I’m a **professional MERN-Stack Developer** building **modern, scalable, and h
 ## 📫 Contact Me
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Sohel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Sohel-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="mailto:sohel@example.com"><img src="https://img.shields.io/badge/Email-Sohel-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
 </p>
 
