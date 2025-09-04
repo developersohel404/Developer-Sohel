@@ -12,17 +12,16 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a **professional MERN-Stack Developer** focused on building **modern, scalable, and high-performance web applications**.  
+I'm a **professional MERN-Stack Developer** focused on building **modern, scalable, and high-performance web applications**. I love turning ideas into reality with **clean code, robust backend, and interactive UI/UX**.
 
-- 🌱 Learning **modern web & AI technologies**  
+- 🌱 Learning **modern web technologies & AI integration**  
 - 🔧 Writing **clean, maintainable, and efficient code**  
 - 💡 Passionate about **problem-solving & automation**  
-- 🤝 Open to **collaboration & exciting projects**  
+- 🤝 Open to **collaboration and exciting projects**  
 
 ---
 
-## 🛠 Skills
-
+## 🛠 Tech Stack & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,js,ts,nodejs,express,mongodb,docker,aws,git,vscode,postman,figma" />
 </p>
@@ -31,46 +30,45 @@ I'm a **professional MERN-Stack Developer** focused on building **modern, scalab
 
 ## 🚀 Projects
 
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap;">
-  <div align="center">
-    <a href="https://github.com/yourusername/portfolio">
-      <img src="https://via.placeholder.com/300x150.gif?text=Portfolio+GIF" alt="Portfolio" width="300" style="border-radius:10px;"/>
-      <h4>🌟 Portfolio Website</h4>
-    </a>
-    <p>Personal portfolio showcasing projects</p>
-    <p><b>Tech:</b> React, TailwindCSS</p>
-    ![Stars](https://img.shields.io/github/stars/yourusername/portfolio?style=social)
-  </div>
-
-  <div align="center">
-    <a href="https://github.com/yourusername/ecommerce">
-      <img src="https://via.placeholder.com/300x150.gif?text=E-Commerce+GIF" alt="E-Commerce" width="300" style="border-radius:10px;"/>
-      <h4>🌟 E-Commerce Platform</h4>
-    </a>
-    <p>Full-stack app with payment integration</p>
-    <p><b>Tech:</b> MERN Stack, Stripe API</p>
-    ![Stars](https://img.shields.io/github/stars/yourusername/ecommerce?style=social)
-  </div>
-
-  <div align="center">
-    <a href="https://github.com/yourusername/task-manager">
-      <img src="https://via.placeholder.com/300x150.gif?text=Task+Manager+GIF" alt="Task Manager" width="300" style="border-radius:10px;"/>
-      <h4>🌟 Task Manager App</h4>
-    </a>
-    <p>CRUD app with authentication</p>
-    <p><b>Tech:</b> MERN Stack, JWT</p>
-    ![Stars](https://img.shields.io/github/stars/yourusername/task-manager?style=social)
-  </div>
-
-  <div align="center">
-    <a href="https://github.com/yourusername/ai-chatbot">
-      <img src="https://via.placeholder.com/300x150.gif?text=AI+Chatbot+GIF" alt="AI Chatbot" width="300" style="border-radius:10px;"/>
-      <h4>🌟 AI Chatbot App</h4>
-    </a>
-    <p>Voice & text-based AI chatbot</p>
-    <p><b>Tech:</b> React, Node.js, OpenAI API</p>
-    ![Stars](https://img.shields.io/github/stars/yourusername/ai-chatbot?style=social)
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/yourusername/portfolio">
+          <img src="https://via.placeholder.com/200x120.png?text=Portfolio" alt="Portfolio"/>
+          <br>🌟 Portfolio Website
+        </a>
+        <p>Personal portfolio showcasing projects</p>
+        <p><b>Tech:</b> React, TailwindCSS</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yourusername/ecommerce">
+          <img src="https://via.placeholder.com/200x120.png?text=E-Commerce" alt="E-Commerce"/>
+          <br>🌟 E-Commerce Platform
+        </a>
+        <p>Full-stack app with payment integration</p>
+        <p><b>Tech:</b> MERN Stack, Stripe API</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/yourusername/task-manager">
+          <img src="https://via.placeholder.com/200x120.png?text=Task+Manager" alt="Task Manager"/>
+          <br>🌟 Task Manager App
+        </a>
+        <p>CRUD app with authentication</p>
+        <p><b>Tech:</b> MERN Stack, JWT</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yourusername/ai-chatbot">
+          <img src="https://via.placeholder.com/200x120.png?text=AI+Chatbot" alt="AI Chatbot"/>
+          <br>🌟 AI Chatbot App
+        </a>
+        <p>Voice & text-based AI chatbot</p>
+        <p><b>Tech:</b> React, Node.js, OpenAI API</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -78,19 +76,24 @@ I'm a **professional MERN-Stack Developer** focused on building **modern, scalab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_rank=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_rank=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-## 👁️ Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Visitor Count" />
 </p>
 
 ---
 
-## 💡 Fun Fact
-*"Coding is my passion, creativity is my superpower."* 🚀
+## 💬 Fun Fact
+*"Coding is my passion, creativity is my superpower."* 🚀  
+
+---
+
+### 🔹 Notes for GitHub Cards & Commits:
+- **GitHub Cards:** প্রতিটি project-এর জন্য উপরের মতো **image + project name + description + tech stack** card বানানো হয়েছে।  
+- **Stars:** Project-এ star count যোগ করতে চাইলে GitHub badges ব্যবহার করতে পারো। উদাহরণ:  
+```markdown
+![GitHub stars](https://img.shields.io/github/stars/yourusername/portfolio?style=social)
